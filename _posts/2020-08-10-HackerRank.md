@@ -2,7 +2,6 @@
 layout:     post
 title:      "[HackerRank] Problem Solving (Python)"
 date:       2020-08-10 
-catalog: true
 ---
 
 **Simple Array Sum**
