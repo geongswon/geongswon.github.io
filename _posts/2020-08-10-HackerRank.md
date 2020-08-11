@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "[HackerRank] Problem Solving (2-4) (Python)"
+title:      "[HackerRank] Problem Solving (2-4) (Python3)"
 date:       2020-08-10 
 ---
 
