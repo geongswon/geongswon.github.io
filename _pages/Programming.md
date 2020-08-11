@@ -3,7 +3,7 @@ layout: page
 title: Programming
 ---
 
-(/images/pages/hackerrank.png)
+!(/images/pages/hackerrank.png)
 1. Problem Solving
 [Day01.](https://geongswon.github.io/2020/08/10/HackerRank/) 
 
