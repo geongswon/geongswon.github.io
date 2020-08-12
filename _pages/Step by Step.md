@@ -3,6 +3,7 @@ layout: page
 title: Step by Step
 ---
 
+---
 ### Algorithm 
 - [HackerRank](https://www.hackerrank.com/dashboard)  
 🤸 Problem Solving
@@ -14,6 +15,6 @@ title: Step by Step
 [Day01](https://geongswon.github.io/2020/08/11/HR_30_1/)
 [Day02](https://geongswon.github.io/2020/08/12/HR_PV_2/)
 
-
+---
 ### Paper Review
 
