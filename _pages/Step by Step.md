@@ -3,7 +3,7 @@ layout: page
 title: Step by Step
 ---
 
-1. HackkerRanck에서 Algorithm 공부하기
+## HackkerRanck에서 Algorithm 공부하기
 
 🤸 Problem Solving
 [Day00](https://geongswon.github.io/2020/08/10/HR_PV_0/) 
