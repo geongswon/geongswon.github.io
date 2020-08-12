@@ -15,4 +15,5 @@ title: Step by Step
 [Day02](https://geongswon.github.io/2020/08/12/HR_PV_2/)
 
 
-## 논문 읽기
+## Paper Review
+
