@@ -4,7 +4,7 @@ title: Step by Step
 ---
 
 
-### Python
+### Algorithm with Python
 #### [HackerRank](https://www.hackerrank.com/dashboard)  
 
 🤸 Problem Solving
