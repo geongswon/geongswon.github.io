@@ -5,7 +5,7 @@ title: Step by Step
 
 
 ### Algorithm with Python
-#### [HackerRank](https://www.hackerrank.com/dashboard)  
+- [HackerRank](https://www.hackerrank.com/dashboard)  
 
 🤸 Problem Solving
 [Day00](https://geongswon.github.io/2020/08/10/HR_PV_0/) 
