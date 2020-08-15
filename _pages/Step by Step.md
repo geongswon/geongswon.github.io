@@ -15,7 +15,9 @@ title: Step by Step
 🤸 30 Days of Code
 [Day01](https://geongswon.github.io/2020/08/11/HR_30_1/)
 [Day02](https://geongswon.github.io/2020/08/12/HR_PV_2/)
-
+[Day03](https://geongswon.github.io/2020/08/15/HR_PV_3/)
+[Day04](https://geongswon.github.io/2020/08/15/HR_PV_4/)
+[Day05](https://geongswon.github.io/2020/08/15/HR_PV_5/)
 
 ### Paper Review
 
