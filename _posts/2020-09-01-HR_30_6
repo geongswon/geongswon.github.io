@@ -1,0 +1,28 @@
+---
+layout:     post
+title:      "[30 Days of Code HackerRank with Python3] Day06"
+date:       2020-09-1
+---
+
+👩‍💻**Let's Review**
+
+{% highlight js %}
+STDIN = int(input())
+
+def test(string_test):
+    a = []
+    b = []
+    for i in range(len(string_test)):
+        if i % 2 == 0:
+            a.append(string_test[i])
+        else:
+            b.append(string_test[i])
+        i += 1
+    print(''.join(a), ''.join(b))
+
+for i in range(STDIN):
+    string_name = input()
+    test(string_name)
+    
+{% endhighlight %}
+❕ "".join(list명) : 리스트에서 문자열으로
