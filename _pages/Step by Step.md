@@ -15,5 +15,7 @@ title: Step by Step
 [Day01](https://geongswon.github.io/2020/08/11/HR_30_1/)
 [Day02](https://geongswon.github.io/2020/08/12/HR_30_2/)
 [Day03, 04, 05](https://geongswon.github.io/2020/08/15/HR_30_3-5/)
-### Paper Review
 
+### Paper Review
+- [SpeedySpeech: Efficient Neural Speech Synthesis]()
+[paper link](https://arxiv.org/abs/2008.03802)
