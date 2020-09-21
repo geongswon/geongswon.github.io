@@ -2,8 +2,8 @@
 layout: page
 title: Step by Step
 ---
-<br> </br>
-### Algorithm with Python
+<br>
+## Algorithm with Python
 - [HackerRank](https://www.hackerrank.com/dashboard)  
 
 🤸 Problem Solving
@@ -16,6 +16,7 @@ title: Step by Step
 [Day02](https://geongswon.github.io/2020/08/12/HR_30_2/)
 [Day03, 04, 05](https://geongswon.github.io/2020/08/15/HR_30_3-5/)
 
-### Paper Review
-[👩‍🏫](https://arxiv.org/abs/2008.03802) [SpeedySpeech: Efficient Neural Speech Synthesis]()  
+<br>
+## Paper Review
+[👩‍🏫](https://arxiv.org/abs/2008.03802) [SpeedySpeech: Efficient Neural Speech Synthesis](https://geongswon.github.io/2020/09/21/PR_1/)  
 
